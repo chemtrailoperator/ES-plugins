@@ -5,51 +5,51 @@ fleet "Sheragi Fleet Big"
 		heroic
 		confusion 10
 	variant 10
-		"Gold Shield" 2
+		"Gold Shield :SRR" 2
 		"Black Diamond" 16
-		"Bronze Edge" 2
-		"White Brand" 2
+		"Bronze Edge :SRR" 2
+		"White Brand :SRR" 2
 	variant 8
-		"Gold Shield" 3
+		"Gold Shield :SRR" 3
 		"Black Diamond" 24
-		"Bronze Edge" 2
-		"White Brand" 2
+		"Bronze Edge :SRR" 2
+		"White Brand :SRR" 2
 	variant 3
-		"Emerald Sword (Modern)"
-		"Platinum Spear" 2
-		"Gold Shield" 2
+		"Emerald Sword (Modern) :SRR"
+		"Platinum Spear :SRR" 2
+		"Gold Shield :SRR" 2
 		"Black Diamond" 22
-		"Bronze Edge" 2
-		"White Brand" 3
+		"Bronze Edge :SRR" 2
+		"White Brand :SRR" 3
 	variant 8
-		"Platinum Spear" 2
-		"Gold Shield" 2
+		"Platinum Spear :SRR" 2
+		"Gold Shield :SRR" 2
 		"Black Diamond" 16
-		"Bronze Edge" 2
-		"White Brand" 2
+		"Bronze Edge :SRR" 2
+		"White Brand :SRR" 2
 	variant 4
-		"Emerald Sword (Modern)"
-		"Gold Shield" 2
+		"Emerald Sword (Modern) :SRR"
+		"Gold Shield :SRR" 2
 		"Black Diamond" 28
-		"Bronze Edge" 2
-		"White Brand" 2
+		"Bronze Edge :SRR" 2
+		"White Brand :SRR" 2
 	variant 6
-		"Platinum Spear" 2
-		"Gold Shield" 3
+		"Platinum Spear :SRR" 2
+		"Gold Shield :SRR" 3
 		"Black Diamond" 24
-		"Bronze Edge" 2
-		"White Brand" 2
+		"Bronze Edge :SRR" 2
+		"White Brand :SRR" 2
 	variant
-		"Emerald Sword (Modern)" 2
-		"Platinum Spear" 3
-		"Gold Shield" 3
+		"Emerald Sword (Modern) :SRR" 2
+		"Platinum Spear :SRR" 3
+		"Gold Shield :SRR" 3
 		"Black Diamond" 36
-		"Bronze Edge" 2
-		"White Brand" 3
+		"Bronze Edge :SRR" 2
+		"White Brand :SRR" 3
 	variant 8
-		"Platinum Spear"
-		"Bronze Edge" 4
-		"White Brand" 5
+		"Platinum Spear :SRR"
+		"Bronze Edge :SRR" 4
+		"White Brand :SRR" 5
 
 fleet "Sheragi Fleet Small"
 	government "Sheragi (Rebirth)"
@@ -58,32 +58,32 @@ fleet "Sheragi Fleet Small"
 		heroic
 		confusion 10
 	variant
-		"Gold Shield"
+		"Gold Shield :SRR"
 		"Black Diamond" 8
-		"Bronze Edge" 2
+		"Bronze Edge :SRR" 2
 	variant
-		"Platinum Spear"
-		"Bronze Edge" 2
+		"Platinum Spear :SRR"
+		"Bronze Edge :SRR" 2
 	variant
-		"Platinum Spear"
-		"White Brand"
+		"Platinum Spear :SRR"
+		"White Brand :SRR"
 	variant
-		"White Brand" 3
-		"Bronze Edge" 2
+		"White Brand :SRR" 3
+		"Bronze Edge :SRR" 2
 	variant 3
-		"White Brand" 2
-		"Bronze Edge" 2
+		"White Brand :SRR" 2
+		"Bronze Edge :SRR" 2
 	variant 4
-		"White Brand"
-		"Bronze Edge" 2
+		"White Brand :SRR"
+		"Bronze Edge :SRR" 2
 	variant 4
-		"White Brand" 2
+		"White Brand :SRR" 2
 	variant 6
-		"White Brand"
+		"White Brand :SRR"
 	variant 12
-		"Bronze Edge" 4
+		"Bronze Edge :SRR" 4
 	variant 12
-		"Bronze Edge" 3
+		"Bronze Edge :SRR" 3
 
 fleet "Sheragi Fleet Civilian"
 	government "Sheragi (Rebirth)"
@@ -92,30 +92,30 @@ fleet "Sheragi Fleet Civilian"
 		timid frugal appeasing
 		confusion 30
 	variant 2
-		"Ruby Hammer" 2
-		"Bronze Edge" 4
+		"Ruby Hammer :SRR" 2
+		"Bronze Edge :SRR" 4
 	variant 3
-		"Ruby Hammer"
-		"Bronze Edge" 2
+		"Ruby Hammer :SRR"
+		"Bronze Edge :SRR" 2
 	variant 5
-		"Ruby Hammer"
-		"Bronze Edge"
+		"Ruby Hammer :SRR"
+		"Bronze Edge :SRR"
 	variant 5
-		"Ruby Hammer" 2
+		"Ruby Hammer :SRR" 2
 	variant 5
-		"Ruby Hammer"
+		"Ruby Hammer :SRR"
 	variant 5
-		"Ruby Hammer"
-		"White Brand"
+		"Ruby Hammer :SRR"
+		"White Brand :SRR"
 	variant 15
-		"Bronze Edge"
+		"Bronze Edge :SRR"
 	variant 6
-		"Bronze Edge" 2
+		"Bronze Edge :SRR" 2
 	variant 5
-		"White Brand"
+		"White Brand :SRR"
 	variant
-		"Ruby Hammer" 2
-		"White Brand" 2
+		"Ruby Hammer :SRR" 2
+		"White Brand :SRR" 2
 
 fleet "Dishonoured Big"
 	government "Sheragi (Dishonoured)"
@@ -125,32 +125,32 @@ fleet "Dishonoured Big"
 		plunders
 		confusion 20
 	variant 2
-		"Gold Shield" 2
+		"Gold Shield :SRR" 2
 		"Black Diamond" 16
-		"White Brand"
+		"White Brand :SRR"
 	variant 5
-		"Gold Shield"
+		"Gold Shield :SRR"
 		"Black Diamond" 8
-		"White Brand" 2
+		"White Brand :SRR" 2
 	variant
-		"Platinum Spear"
-		"Gold Shield" 2
+		"Platinum Spear :SRR"
+		"Gold Shield :SRR" 2
 		"Black Diamond" 16
-		"White Brand"
+		"White Brand :SRR"
 	variant 2
-		"Platinum Spear"
-		"Gold Shield"
+		"Platinum Spear :SRR"
+		"Gold Shield :SRR"
 		"Black Diamond" 8
-		"White Brand" 2
+		"White Brand :SRR" 2
 	variant 6
-		"Platinum Spear"
+		"Platinum Spear :SRR"
 	variant 3
-		"Platinum Spear"
-		"White Brand" 2
+		"Platinum Spear :SRR"
+		"White Brand :SRR" 2
 	variant 2
-		"White Brand" 5
+		"White Brand :SRR" 5
 	variant 2
-		"White Brand" 4
+		"White Brand :SRR" 4
 
 fleet "Dishonoured Small"
 	government "Sheragi (Dishonoured)"
@@ -160,22 +160,22 @@ fleet "Dishonoured Small"
 		plunders
 		confusion 20
 	variant
-		"Gold Shield"
+		"Gold Shield :SRR"
 		"Black Diamond" 8
 	variant
-		"Platinum Spear"
+		"Platinum Spear :SRR"
 	variant
-		"White Brand" 3
-		"Bronze Edge" 2
+		"White Brand :SRR" 3
+		"Bronze Edge :SRR" 2
 	variant 5
-		"White Brand" 2
-		"Bronze Edge" 2
+		"White Brand :SRR" 2
+		"Bronze Edge :SRR" 2
 	variant 5
-		"White Brand"
-		"Bronze Edge" 2
+		"White Brand :SRR"
+		"Bronze Edge :SRR" 2
 	variant 5
-		"White Brand" 2
+		"White Brand :SRR" 2
 	variant 12
-		"Bronze Edge" 4
+		"Bronze Edge :SRR" 4
 	variant 12
-		"Bronze Edge" 3
+		"Bronze Edge :SRR" 3

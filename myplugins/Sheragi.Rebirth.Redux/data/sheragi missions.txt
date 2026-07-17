@@ -87,7 +87,7 @@ mission "Izkagg 1"
 		conversation
 			`"Honour upon you. Please take this as payment." He hands you a chip worth <payment>.`
 
-ship "Bronze Edge" "Lleisgarir Hardri"
+ship "Bronze Edge :SRR" "Lleisgarir Hardri"
 	outfits
 		"Heavy Ion Cyclotron" 3
 		"Sheragi Anti-Missile"

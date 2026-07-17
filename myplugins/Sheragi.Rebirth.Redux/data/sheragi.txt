@@ -1,4 +1,4 @@
-# Shipards and Outfitters:
+# Shipyards and Outfitters:
 outfitter "Sheragi Basic"
 	"Small EM Battery"
 	"Medium EM Battery"
@@ -62,13 +62,13 @@ outfitter "Sheragi Advanced"
 
 shipyard "Sheragi Basic"
 	"Black Diamond"
-	"SRR Bronze Edge"
+	"Bronze Edge :SRR"
 
 shipyard "Sheragi Advanced"
-	"SRR Platinum Spear"
-	"SRR Gold Shield"
-	"SRR Ruby Hammer"
-	"SRR White Brand"
+	"Platinum Spear :SRR"
+	"Gold Shield :SRR"
+	"Ruby Hammer :SRR"
+	"White Brand :SRR"
 
 # Ship names:
 phrase "sheragi"
