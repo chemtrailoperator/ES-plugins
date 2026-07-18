@@ -1,4 +1,4 @@
-ship "Bronze Edge" "Bronze Edge (Pulse)"
+ship "Bronze Edge :SRR" "Bronze Edge (Pulse)"
 	outfits
 		"Heavy Ion Cyclotron" 2
 		"Sheragi Pulse Beam"
@@ -16,7 +16,7 @@ ship "Bronze Edge" "Bronze Edge (Pulse)"
 	gun "Heavy Ion Cyclotron"
 	gun "Heavy Ion Cyclotron"
 
-ship "Bronze Edge" "Bronze Edge (PWave)"
+ship "Bronze Edge :SRR" "Bronze Edge (PWave)"
 	outfits
 		"Particle Waveform Cannon" 3
 		
@@ -29,7 +29,7 @@ ship "Bronze Edge" "Bronze Edge (PWave)"
 		"Fusion Afterburner"
 		"Sheragi Hyperdrive"
 
-ship "Bronze Edge" "Bronze Edge (Cyclotron)"
+ship "Bronze Edge :SRR" "Bronze Edge (Cyclotron)"
 	outfits
 		"Heavy Ion Cyclotron" 3
 		"Particle Waveform Turret"
@@ -43,7 +43,7 @@ ship "Bronze Edge" "Bronze Edge (Cyclotron)"
 		"Fusion Afterburner"
 		"Sheragi Hyperdrive"
 
-ship "Ruby Hammer" "Ruby Hammer (Pulse)"
+ship "Ruby Hammer :SRR" "Ruby Hammer (Pulse)"
 	outfits
 		"Sheragi Pulse Beam Turret" 3
 		"Outfits Expansion" 6
@@ -55,7 +55,7 @@ ship "Ruby Hammer" "Ruby Hammer (Pulse)"
 		
 		"Small Fusion Drive"
 
-ship "Ruby Hammer" "Ruby Hammer (PWave)"
+ship "Ruby Hammer :SRR" "Ruby Hammer (PWave)"
 	outfits
 		"Particle Waveform Turret" 3
 		"Outfits Expansion" 4
@@ -67,7 +67,7 @@ ship "Ruby Hammer" "Ruby Hammer (PWave)"
 		
 		"Small Fusion Drive"
 
-ship "Platinum Spear" "Platinum Spear (Pulse)"
+ship "Platinum Spear :SRR" "Platinum Spear (Pulse)"
 	outfits
 		"Sheragi Pulse Beam Turret" 8
 		"Sheragi Anti-Missile" 2
@@ -89,7 +89,7 @@ ship "Platinum Spear" "Platinum Spear (Pulse)"
 	turret "Sheragi Anti-Missile"
 	turret "Sheragi Anti-Missile"
 
-ship "Platinum Spear" "Platinum Spear (PWave)"
+ship "Platinum Spear :SRR" "Platinum Spear (PWave)"
 	outfits
 		"Particle Waveform Turret" 8
 		"Particle Waveform Cannon" 2
@@ -112,7 +112,7 @@ ship "Platinum Spear" "Platinum Spear (PWave)"
 	turret "Sheragi Anti-Missile"
 	turret "Sheragi Anti-Missile"
 
-ship "Platinum Spear" "Platinum Spear (Shields)"
+ship "Platinum Spear :SRR" "Platinum Spear (Shields)"
 	outfits
 		"Particle Waveform Turret" 8
 		"Sheragi Anti-Missile" 2
@@ -134,7 +134,7 @@ ship "Platinum Spear" "Platinum Spear (Shields)"
 	turret "Sheragi Anti-Missile"
 	turret "Sheragi Anti-Missile"
 
-ship "Gold Shield" "Gold Shield (Pulse)"
+ship "Gold Shield :SRR" "Gold Shield (Pulse)"
 	outfits
 		"Sheragi Pulse Beam Turret" 4
 		"Sheragi Anti-Missile" 2
@@ -153,7 +153,7 @@ ship "Gold Shield" "Gold Shield (Pulse)"
 	turret "Sheragi Anti-Missile"
 	turret "Sheragi Anti-Missile"
 
-ship "Gold Shield" "Gold Shield (Pwave)"
+ship "Gold Shield :SRR" "Gold Shield (Pwave)"
 	outfits
 		"Heavy Ion Cyclotron" 7
 		"Sheragi Anti-Missile" 2
@@ -166,7 +166,7 @@ ship "Gold Shield" "Gold Shield (Pwave)"
 		
 		"Fusion Drive"
 
-ship "Gold Shield" "Gold Shield (Cyclotron)"
+ship "Gold Shield :SRR" "Gold Shield (Cyclotron)"
 	outfits
 		"Heavy Ion Cyclotron" 7
 		"Sheragi Anti-Missile" 2
@@ -179,7 +179,7 @@ ship "Gold Shield" "Gold Shield (Cyclotron)"
 		
 		"Fusion Drive"
 
-ship "White Brand" "White Brand (Pulse)"
+ship "White Brand :SRR" "White Brand (Pulse)"
 	outfits
 		"Sheragi Pulse Beam Turret" 5
 		"Sheragi Pulse Beam" 2
