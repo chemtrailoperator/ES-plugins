@@ -29,6 +29,7 @@ ship "Arrow" "Arrow (Bare)"
 		"Cooling Ducts"
 
 ship "Bactrian" "Bactrian (Bare)"
+	"variant map name" "Lionheart Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
