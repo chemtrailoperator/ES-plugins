@@ -1,5 +1,5 @@
 ship "Antecursor :LCS" "Antecursor :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -9,7 +9,7 @@ ship "Antecursor :LCS" "Antecursor :LCS (Bare)"
 		"Cooling Ducts"
 
 ship "Commercator :LCS" "Commercator :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -19,7 +19,7 @@ ship "Commercator :LCS" "Commercator :LCS (Bare)"
 		"Cooling Ducts"
 
 ship "Explorator :LCS" "Explorator :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -29,7 +29,7 @@ ship "Explorator :LCS" "Explorator :LCS (Bare)"
 		"Cooling Ducts"
 
 ship "Gradator :LCS" "Gradator :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -39,7 +39,7 @@ ship "Gradator :LCS" "Gradator :LCS (Bare)"
 		"Cooling Ducts"
 
 ship "Lectica :LCS" "Lectica :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -49,7 +49,7 @@ ship "Lectica :LCS" "Lectica :LCS (Bare)"
 		"Cooling Ducts"
 
 ship "Mercator :LCS" "Mercator :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -59,7 +59,7 @@ ship "Mercator :LCS" "Mercator :LCS (Bare)"
 		"Cooling Ducts"
 
 ship "Messor :LCS"	"Messor :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -69,7 +69,7 @@ ship "Messor :LCS"	"Messor :LCS (Bare)"
 		"Cooling Ducts"
 
 ship "Senator :LCS" "Senator :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
@@ -79,7 +79,7 @@ ship "Senator :LCS" "Senator :LCS (Bare)"
 		"Cooling Ducts"
 
 ship "Venditor :LCS" "Venditor :LCS (Bare)"
-	"variant map name" "Louise Congl. Outlet"
+	"variant map name" "Louise Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
