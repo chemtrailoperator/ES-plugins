@@ -1,4 +1,131 @@
 ship "Heavy Hauler" "Heavy Hauler (Bare)"
+	"variant map name" "Southbound Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Heavy Hauler II" "Heavy Hauler II (Bare)"
+	"variant map name" "Southbound Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Heavy Hauler III" "Heavy Hauler III (Bare)"
+	"variant map name" "Southbound Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Stingray" "Stingray (Bare)"
+	"variant map name" "Megaparsec Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Starbus" "Starbus (Bare)"
+	"variant map name" "Southbound Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Light Freighter" "Light Freighter (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Heavy Freighter" "Heavy Freighter (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Mega Freighter" "Mega Freighter (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Star King" "Star King (Bare)"
+	"variant map name" "Betelgeuse Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Parapet" "Parapet (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Rampart" "Rampart (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Palisade" "Palisade (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Buckler" "Buckler (Bare)"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"ship "Heavy Hauler" "Heavy Hauler (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
