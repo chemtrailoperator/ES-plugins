@@ -1,4 +1,91 @@
 ship "Catamaran" "Catamaran (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Caterpillar" "Caterpillar (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Eagle" "Eagle (Bare)"
+	"variant map name" "Greenrock Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Enforcer" "Enforcer (Bare)"
+	"variant map name" "Greenrock Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Grackle" "Grackle (Bare)"
+	"variant map name" "Sirius Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Hornet" "Hornet (Bare)"
+	"variant map name" "Syndicate Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Rawalpindi" "Rawalpindi (Bare)"
+	"variant map name" "Greenrock Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Sunthief" "Sunthief (Bare)"
+	"variant map name" "Factory Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Trident" "Trident (Bare)"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"ship "Catamaran" "Catamaran (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
