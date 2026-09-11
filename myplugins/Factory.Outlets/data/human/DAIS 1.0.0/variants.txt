@@ -1,4 +1,51 @@
 ship "Lindwurm" "Lindwurm (Bare)"
+	"variant map name" "Lionheart Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Hydrargyrum" "Hydrargyrum (Bare)"
+	"variant map name" "Megaparsec Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Hekla Dora" "Hekla Dora (Bare)"
+	"variant map name" "Thule Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Hekla Vaba" "Hekla Vaba (Bare)"
+	"variant map name" "Thule Outlet"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"
+
+ship "Erinys" "Erinys (Bare)"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		"Cooling Ducts"ship "Lindwurm" "Lindwurm (Bare)"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
