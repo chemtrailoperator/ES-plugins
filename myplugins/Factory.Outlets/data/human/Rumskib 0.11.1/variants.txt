@@ -39,6 +39,7 @@ ship "Recruiter" "Recruiter (Bare)"
 		"Cooling Ducts"
 
 ship "Tanager" "Tanager (Bare)"
+	"variant map name" "Tarazed Outlet"
 	outfits
 		"nGVF-AA Fuel Cell"
 		"LP036a Battery Pack"
